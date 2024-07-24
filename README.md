@@ -1,7 +1,9 @@
 ### Hi there 👋,  I'm Devashish Soni
-![Header](./your-header-image-name.png)
+
+![github-header-image](https://github.com/user-attachments/assets/1eb88cf5-86dc-49bd-8726-65fd24b7aea1)
+
 #### A passionate Data Scientist and Machine Learning .I have hands-on experience in data analysis, visualization, and building machine learning models.
-![A passionate Data Scientist and Machine Learning .I have hands-on experience in data analysis, visualization, and building machine learning models.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate Data Scientist and Machine Learning .I have hands-on experience in data analysis, visualization, and building machine learning models.]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

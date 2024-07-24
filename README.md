@@ -1,6 +1,7 @@
 ### Hi there 👋,  I'm Devashish Soni
 
-![Header](./your-header-image-name.png)
+![github-header-image (1)](https://github.com/user-attachments/assets/2266d904-d767-4010-a29c-14b05a444a25)
+
 
 #### A passionate Data Scientist and Machine Learning .I have hands-on experience in data analysis, visualization, and building machine learning models.
 

@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Devashish Soni</h1>
-<h3 align="center">A passionate frontend Data Analytics from India</h3>
+<h3 align="center">## About Me
+Hello! I'm Devashish Soni, a passionate Data Scientist and Machine Learning enthusiast based in Nagpur, Maharashtra. I have a Bachelor's degree in Computer Applications (BCCA) from RTMN and a postgraduate specialization in Data Science and Machine Learning from Imarticus Learning. I have hands-on experience in data analysis, visualization, and building machine learning models.
+</h3>
+
+## Skills
+- **Programming Languages:** Python, SQL
+- **Data Visualization:** Tableau, PowerBI
+- **Machine Learning:** Decision Tree, Random Forest, KNN, Naive Bayes
+- **Deep Learning:** CNNs, Transfer Learning
+- **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn, OpenCV
 
 - 🔭 I’m currently working on **Machine Learning**
 

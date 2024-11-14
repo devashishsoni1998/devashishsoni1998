@@ -7,7 +7,7 @@
 
 Skills:  **Programming Languages:** Python, SQL - **Data Visualization:** Tableau, PowerBI - **Machine Learning:** Decision Tree, Random Forest, KNN, Naive Bayes - **Deep Learning:** CNNs, Transfer Learning - **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn, OpenCV
 
-- 🔭 I’m currently working on Machine Learning, python and Tableau 
+- 🔭 I’m currently learn Machine Learning, python and Tableau 
 - 🌱 I’m currently learning Data Science/Analytics with ML 
 - 👯 I’m looking to collaborate on - Innovative data Analytics projects with industry professionals  
 - 🤔 I’m looking for help with - Improving deep learning models, especially in NLP and Exploring big data technologies 
